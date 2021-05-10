@@ -19,9 +19,9 @@
       "reminder": true
     },
     {
-      "text": "text",
-      "day": "may 1",
-      "reminder": true,
+      "text": "apple keyboard",
+      "day": "321",
+      "reminder": false,
       "id": 4
     }
   ]
